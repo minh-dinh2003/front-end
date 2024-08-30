@@ -68,12 +68,16 @@ import benefitIcon2 from "./benefits/icon-2.svg";
 import benefitIcon3 from "./benefits/icon-3.svg";
 import benefitIcon4 from "./benefits/icon-4.svg";
 import benefitImage2 from "./benefits/image-2.png";
+import daiyem from "./places/daiyem.jpg";
+import nightmarket from "./places/nightmarket.jpg";
+import thenordic from "./places/the-nordic-village.jpg";
 
 import discordBlack from "./socials/discord.svg";
 import facebook from "./socials/facebook.svg";
 import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
+
 
 export {
   brainwave,
@@ -139,6 +143,9 @@ export {
   benefitIcon3,
   benefitIcon4,
   benefitImage2,
+  daiyem,
+  thenordic,
+  nightmarket,
   discordBlack,
   facebook,
   instagram,

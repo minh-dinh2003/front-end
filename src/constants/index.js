@@ -25,6 +25,9 @@ import {
   sliders04,
   telegram,
   twitter,
+  daiyem,
+  nightmarket,
+  thenordic,
   yourlogo,
 } from "../assets";
 
@@ -168,7 +171,7 @@ export const places = [
     text: "As a very famous eco-tourism destination in Moc Chau, Dai Yem Waterfall - Love Glass Bridge is located in Vat village, Muong Sang commune, Moc Chau district. The company was approved by Moc Chau District People's Committee to invest in the construction, management and operation of Dai Yem Waterfall area in 2017. The company has invested in many construction items, such as: Bridge over the stream to see the waterfall; road system leading to the waterfall; walking path around the waterfall; service business area and parking lot, with a total area of ​​about 7 hectares. In particular, in 2019, the company cooperated with partners to build the first 5D love glass bridge in Vietnam at Dai Yem Waterfall, attracting a large number of tourists to visit and experience. Coming to Dai Yem Waterfall eco-tourism area, visitors can fully feel the peaceful and poetic beauty. The waterfall pours white like a silk strip between the mountains and hills, walking on the unique glass surface of the Love Glass Bridge. Listen to the thrilling legend of the waterfall passed down by the Thai people in Vat village.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
-    imageUrl: benefitImage2,
+    imageUrl: daiyem,
   },
   {
     id: "1",
@@ -176,7 +179,7 @@ export const places = [
     text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
-    imageUrl: benefitImage2,
+    imageUrl: nightmarket,
     light: true,
   },
   {
@@ -185,7 +188,7 @@ export const places = [
     text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
-    imageUrl: benefitImage2,
+    imageUrl: thenordic,
   },
   {
     id: "3",
@@ -193,7 +196,7 @@ export const places = [
     text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
-    imageUrl: benefitImage2,
+    imageUrl: thenordic,
     light: true,
   },
   {
